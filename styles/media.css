@@ -1,4 +1,4 @@
-@media (max-width: 376px) {
+@media (max-width: 480px) {
   header {
     background-image: url(../images/bg-hero-mobile.svg);
     background-position: center;
@@ -105,3 +105,4 @@
     text-align: center;
   }
 }
+
