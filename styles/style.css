@@ -255,5 +255,6 @@ footer .logo {
 }
 
 .copyright {
+    text-transform: capitalize;
   text-align: end;
 }
